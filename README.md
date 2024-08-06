@@ -52,17 +52,14 @@
 <br clear="both">
 
 <div align="center">
-  <a href="www.linkedin.com/in/abdullah-asaad-hammoud-ba51a0310" target="_blank">
+  <a href="https://www.linkedin.com/in/abdullah-asaad-hammoud-ba51a0310/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="51" height="40" alt="linkedin logo"  />
   </a>
-  <a href="a.h.abdullah.es@outlook.com" target="_blank">
+  <a href="mailto:a.h.abdullah.es@outlook.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="51" height="40" alt="microsoft-outlook logo"  />
   </a>
-  <a href="a.h.abdullah.es@gmail.com" target="_blank">
+  <a  href="mailto:a.h.abdullah.es@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="51" height="40" alt="gmail logo"  />
-  </a>
-  <a href="ABDALLAH ASAAD HAMMOUD" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/slack/default.svg" width="51" height="40" alt="slack logo"  />
   </a>
 </div>
 
